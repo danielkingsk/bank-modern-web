@@ -1,9 +1,10 @@
-import React from 'react'
+import React from "react";
+import styles from '/style.js'
 
-const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+const App = () => (
+  <div className="bg-primary w-full overflow-hidden">
+    <div className={`${styles.paddingX} ${styles.flexCenter}`}></div>
+  </div>
+);
 
-export default App
+export default App;
