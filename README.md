@@ -1,17 +1,13 @@
 # Neobank Landing Page
 
-A modern, minimalist landing page for a fintech/neobank service, built with **React + Vite**, styled with **Tailwind CSS**, and written in **JavaScript **. Designed to convey trust, speed, and a clean digital-banking experience.
-
+A modern, minimalist landing page for a fintech/neobank service, built with **React + Vite**, styled with **Tailwind CSS**, and written in **JavaScript**. Designed to convey trust, speed, and a clean digital-banking experience.
 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -59,7 +55,7 @@ npm run preview
 
 ## 🎨 Styling
 
-Tailwind is configured with a custom color palette and typography scale to match a neobank aesthetic (deep blues/blacks, accent gradients, rounded cards). Custom theme values live in `tailwind.config.ts`.
+Tailwind is configured with a custom color palette and typography scale to match a neobank aesthetic (deep blues/blacks, accent gradients, rounded cards). Custom theme values live in `tailwind.config.js`.
 
 ---
 
